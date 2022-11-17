@@ -16,3 +16,6 @@ Você receberá uma entrada em numeral romano.
  
 ## Saída
 Você deverá imprimir o numeral romano convertido para um número inteiro. 
+
+## Solução
+<a href="https://github.com/wbhard/Kotlin-Experience/blob/main/Kotlin/3.Explorando%20Mapas%2C%20Loops%20e%20Regras%20com%20Kotlin/solucao.kt">Código</a>
