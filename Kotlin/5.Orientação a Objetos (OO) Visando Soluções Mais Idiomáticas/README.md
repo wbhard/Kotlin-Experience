@@ -8,3 +8,6 @@ A entrada consiste em dois valores inteiros, sendo N a população do país A e 
 
 ## Saída
 A saída consiste em retornar o número de anos necessários para que a população do país A ultrapasse ou iguale a população B, mantidas as taxas de crescimento.
+
+## Solução
+<a href="https://github.com/wbhard/Kotlin-Experience/blob/main/Kotlin/5.Orienta%C3%A7%C3%A3o%20a%20Objetos%20(OO)%20Visando%20Solu%C3%A7%C3%B5es%20Mais%20Idiom%C3%A1ticas/solucao.kt">Código</a>
