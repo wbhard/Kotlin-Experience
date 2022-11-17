@@ -19,7 +19,7 @@
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td><a href="">Abstraindo Formações da DIO Usando OO com Kotlin</a></td>
+                <td><a href="https://github.com/wbhard/aprenda-kotlin-com-exemplos-lab/blob/main/README.md">Abstraindo Formações da DIO Usando OO com Kotlin</a></td>
                 <td><a href="https://github.com/wbhard/aprenda-kotlin-com-exemplos-lab">Código</a></td>
                 <td align="center">✅</td>
             </tr>
