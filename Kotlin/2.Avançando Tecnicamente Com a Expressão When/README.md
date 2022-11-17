@@ -6,3 +6,6 @@ As entradas serão datas em formato numeral. O dia ou mês que possuirem somente
 
 ## Saida
 As saídas serão as mesmas datas da entrada porém, com o mês escrito por extenso. O mês deve ter a primeira letra em maiúsculo.
+
+## Solução
+<a href="https://github.com/wbhard/Kotlin-Experience/blob/main/Kotlin/2.Avan%C3%A7ando%20Tecnicamente%20Com%20a%20Express%C3%A3o%20When/solucao.kt">Código</a>
