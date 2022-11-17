@@ -3,10 +3,32 @@
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
-        <!-- Refinando sua Técnica Com Desafios de Código em Kotlin -->
+        <!-- Desafio de Projeto Kotlin -->
+    <table border=1>
+            <tr>
+                <th colspan="4">Desafio de Projeto Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td><a href="">Abstraindo Formações da DIO Usando OO com Kotlin</a></td>
+                <td><a href="https://github.com/wbhard/aprenda-kotlin-com-exemplos-lab">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+        </table>
+    <div align="left">
+        <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação em Kotlin</th>
+                <th colspan="4">Refinando sua Técnica Com Desafios de Código em Kotlin</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -48,4 +70,5 @@
                 <td align="center">✅</td>
             </tr>
         </table>
-        </details>
+    </div>
+</details>
