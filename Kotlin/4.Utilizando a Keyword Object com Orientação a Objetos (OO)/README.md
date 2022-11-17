@@ -17,3 +17,6 @@ A entrada consiste em vários arquivos de teste, que conterá o <b>valor bruto d
 
 ## Saída
 Para cada arquivo da entrada, terá um arquivo de saída. E como mencionado no Desafio, será gerado uma linha com um número que será a diferença entre o valor bruto do salário e o percentual de imposto mediante a faixa salárial somado com o adicional dos benefícios. Use o exemplo abaixo para clarear o que está sendo pedido.
+
+## Solução
+<a href="https://github.com/wbhard/Kotlin-Experience/blob/main/Kotlin/4.Utilizando%20a%20Keyword%20Object%20com%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20(OO)/solucao.kt">Código</a>
