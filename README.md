@@ -3,7 +3,7 @@
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
-        <!-- Introdução a Programação em Kotlin -->
+        <!-- Refinando sua Técnica Com Desafios de Código em Kotlin -->
         <table border=1>
             <tr>
                 <th colspan="4">Introdução a Programação em Kotlin</th>
