@@ -34,4 +34,18 @@
                 <td><a href="---">text</a></td>
                 <td><a href="---">text</a></td>
                 <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td><a href="---">text</a></td>
+                <td><a href="---">text</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td><a href="---">text</a></td>
+                <td><a href="---">text</a></td>
+                <td align="center">✅</td>
+            </tr>
         </table>
+        </details>
